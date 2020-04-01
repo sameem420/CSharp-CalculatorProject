@@ -17,6 +17,6 @@ TODO :-
 
 - [ ] Programmer / Binary Number System - :soon:
 
-and much more. :eyes:
+and much more coming. :eyes:
 
 :shipit:
